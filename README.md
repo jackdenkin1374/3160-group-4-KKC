@@ -37,7 +37,13 @@ Rating System Business Rules
 
 
 # EERD (full database)
+
 ![Alt Text](https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/ERD%20With%20Rating%20System.png)
+
+Here is a link going to our data dictionary.
+
+https://htmlpreview.github.io/?https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Campus%20Eats%20Model%20-%20Data%20Dictionary.html
+
 # Data Dictionary (full database)
 
 # MySQL Queries
