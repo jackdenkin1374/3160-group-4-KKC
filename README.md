@@ -22,6 +22,8 @@ Special thanks to the Mavericks team (Dhananjay Arora, Akshay Babu, Sumit Kawale
 
 # Use Case for Rating System
 
+![Alt Text](https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/use%20case%20diagram.png)
+
 # Business Rules
 
 Rating System Business Rules
