@@ -13,6 +13,7 @@ Zaccary Hudson
 ## Project Description
 
 This project is extending a database on ordering and delivery of food from http://www.craveoncampus.com/ by creating a rating system. 
+
 Users can rate the restaurants and drivers and the latter parties can also view users' ratings.
 
 ## Special Thanks
