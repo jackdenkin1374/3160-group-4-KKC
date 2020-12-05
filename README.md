@@ -52,10 +52,10 @@ https://htmlpreview.github.io/?https://github.com/jackdenkin1374/3160-group-4-KK
 
 There are 4 procedures that we have in this project: AddDriverRating, AddRestaurantRating, AvgDriverRating and AvgRestaurantRating.
 
-AddDriverRating adds the driver rating table.
-AddRestaurantRating adds the restaurant rating table.
-AvgDriverRating averages the overall rating of a single driver.
-AvgRestaurantRating averages the overall rating of a single restaurant.
+* AddDriverRating adds the driver rating table.
+* AddRestaurantRating adds the restaurant rating table.
+* AvgDriverRating averages the overall rating of a single driver.
+* AvgRestaurantRating averages the overall rating of a single restaurant.
 
 # Web/App Implementation (Optional) or Description of Future Work
 
