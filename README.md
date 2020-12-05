@@ -43,12 +43,19 @@ Rating System Business Rules
 
 # Data Dictionary (full database)
 
-https://htmlpreview.github.io/?https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Campus%20Eats%20Model%20-%20Data%20Dictionary.html
+https://htmlpreview.github.io/?https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Campus_Eats_Model_-_Data_Dictionary_Dec%205.html
 
 
 # MySQL Queries
 
 # Stored Procedure
+
+There are 4 procedures that we have in this project: AddDriverRating, AddRestaurantRating, AvgDriverRating and AvgRestaurantRating.
+
+AddDriverRating adds the driver rating table.
+AddRestaurantRating adds the restaurant rating table.
+AvgDriverRating averages the overall rating of a single driver.
+AvgRestaurantRating averages the overall rating of a single restaurant.
 
 # Web/App Implementation (Optional) or Description of Future Work
 
