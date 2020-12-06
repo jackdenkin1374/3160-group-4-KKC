@@ -61,4 +61,6 @@ There are 4 procedures that we have in this project: AddDriverRating, AddRestaur
 
 # MySQL dump
 
+https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Campus_eats_Fall2020_dump_12-5-2020.sql
+
 # PPT Video (link)
