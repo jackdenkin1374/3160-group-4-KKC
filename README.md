@@ -57,7 +57,9 @@ There are 4 procedures that we have in this project: AddDriverRating, AddRestaur
 * AvgDriverRating averages the overall rating of a single driver.
 * AvgRestaurantRating averages the overall rating of a single restaurant.
 
-# Web/App Implementation (Optional) or Description of Future Work
+# Future Work
+
+We plan to build a simple web interface via github static pages to simulate gathering data about certain ratings of this restaurant or driver.
 
 # MySQL dump
 
