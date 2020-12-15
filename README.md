@@ -22,7 +22,7 @@ Special thanks to the Mavericks team (Dhananjay Arora, Akshay Babu, Sumit Kawale
 
 # Use Case for Rating System
 
-![Alt Text](https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/use%20case%20diagram.png)
+![Alt Text](https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Images/use%20case%20diagram.png)
 
 # Business Rules
 
@@ -38,7 +38,7 @@ Rating System Business Rules
 
 # EERD (full database)
 
-![Alt Text](https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/ERD_With_Rating_System_Dec5.png)
+![Alt Text](https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Images/ERD_With_Rating_System_Dec5.png)
 
 
 # Data Dictionary (full database)
