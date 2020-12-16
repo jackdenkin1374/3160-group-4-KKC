@@ -48,6 +48,14 @@ https://htmlpreview.github.io/?https://github.com/jackdenkin1374/3160-group-4-KK
 
 # MySQL Queries
 
+![Alt Text](https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Images/Driver_Rating.PNG)
+
+This query averages the ratings a driver has.
+
+![Alt Text](https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Images/Restaurant_Rating.PNG)
+
+This query averages the ratings a restaurant has.
+
 # Stored Procedure
 
 There are 4 procedures that we have in this project: AddDriverRating, AddRestaurantRating, AvgDriverRating and AvgRestaurantRating.
@@ -66,3 +74,5 @@ We plan to build a simple web interface via github static pages to simulate gath
 https://github.com/jackdenkin1374/3160-group-4-KKC/blob/main/Campus_eats_Fall2020_dump_12-5-2020.sql
 
 # PPT Video (link)
+
+https://docs.google.com/presentation/d/1XlZXo-taQO4sXgtUkSAeAMg69LkBvesl2kneOSY2C5Q/edit?usp=sharing
