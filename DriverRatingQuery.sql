@@ -13,5 +13,5 @@ INNER JOIN (
         GROUP BY dr.driver_id
 ) AS ds
 ON ps.student_id = ds.student_id
-ORDER BY Average_Rating
+ORDER BY Average_Rating DESC
 LIMIT 5
